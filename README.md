@@ -3,5 +3,5 @@
 To install this, use 
 
 ```
-pip install git+git://github.com/MadeByAI-Tech/madebyutils.git@branch
+pip install git+https://github.com/MadeByAI-Tech/MadeByUtils.git@v0.1.0
 ```
